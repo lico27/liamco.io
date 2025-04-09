@@ -6,6 +6,7 @@ website:
   title: "liamco.io"
   navbar:
     right:
+      - certs.qmd
       - contact-me.qmd
 
 format:
