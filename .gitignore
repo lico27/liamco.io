@@ -5,6 +5,7 @@
 
 # Quarto render output
 _site/
+_freeze/
 
 # R/RStudio stuff
 .Rhistory
