@@ -18,3 +18,5 @@ _site/
 # VS Code settings (if using)
 .vscode/
 
+
+/.quarto/
