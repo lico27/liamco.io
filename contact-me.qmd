@@ -1,8 +1,7 @@
 ---
 title: "Contact me"
-image: pfp1.png
 about:
-  template: solana
+  template: jolla
   links:
     - icon: linkedin
       text: LinkedIn

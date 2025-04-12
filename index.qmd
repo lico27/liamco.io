@@ -17,7 +17,11 @@ title-block-banner: true
 
 <p>I'm also a graduate of edX's Front-End Web Development bootcamp, which taught me fundamental skills including HTML, CSS, JavaScript and React.</p>
 
-<p>Feel free to take a look at my recent projects, and don't hesitate to get in touch!</p>
+<p>Feel free to take a look at my work, and don't hesitate to get in touch!</p>
+
+<div style="text-align: center;">
+<img src="pfp1.png" alt="Headshot of Liam smiling" style="width: 180px; border-radius: 10%;">
+</div>
 
 ------------------------------------------------------------------------
 
