@@ -7,16 +7,24 @@ format: html
 
 ::: cert-list
 -   Codecademy
-    - [Learn Python 3](https://www.codecademy.com/profiles/lico27/certificates/6c152bd262967f8c941c9707ed636bda)
-
+    -   [Learn Python 3](https://www.codecademy.com/profiles/lico27/certificates/6c152bd262967f8c941c9707ed636bda)
+    -   [Learn SQL](https://www.codecademy.com/profiles/lico27/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+<BR><BR>
+-   Udemy
+    -   [Relational Database Design](https://www.udemy.com/certificate/UC-85f03996-6797-4547-8bb0-fbe2fa6e11d3/)
+<BR><BR>
+-   edX/Skills for Life
+    -   [Front End Web Development Bootcamp](https://skillsbootcamp.credential.getsmarter.com/a68acf69-9671-43c1-a686-663569d7a475#acc.QDOkseuS)
 :::
 
 ## In progress
 
 <div>
 
--   
+-   University of the West of England
+    -   MSc Data Science
+<BR><BR>
+-   Udemy
+    -   Math for Data Science Masterclass
 
 </div>
-
-
