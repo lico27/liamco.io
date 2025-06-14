@@ -11,9 +11,9 @@ page-layout: full
 title-block-banner: true
 ---
 
-<p>Welcome to my portfolio! It's a work in progress currently, but please check back soon 🙂</p>
+<p>Welcome to my portfolio! 🙂</p>
 
-<p>I've been an MSc Data Science student at <a href="https://uwe.ac.uk" target="_blank">UWE Bristol</a> since January 2025, and I'll be using this portfolio to keep track of my projects and learning.</p>
+<p>I've been an MSc Data Science student at <a href="https://uwe.ac.uk" target="_blank">UWE Bristol</a> since January 2025, and I use this blog to keep track of my projects and learning.</p>
 
 <p>I'm also a graduate of edX's Front-End Web Development bootcamp, which taught me fundamental skills including HTML, CSS, JavaScript and React.</p>
 
