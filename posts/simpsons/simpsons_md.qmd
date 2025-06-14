@@ -3,11 +3,14 @@ title: "Worst. Analysis. Ever: An Exploration of Simpsons Episodes in R"
 author: "Liam Cottrell"
 date: "2025-02-04"
 categories: [data analysis, tidy tuesday, r, doh]
+image: "simpsons.jpg"
 ---
 
 ## Intro
 
 I have officially undertaken my first data analysis project - looking at some Simpsons data for <a href='https://github.com/rfordatascience/tidytuesday' target='_blank'>#TidyTuesday</a>. I've been learning R for a grand total of two weeks so this is not particularly ✨ excellent ✨ (Mr Burns voice) but we all start somewhere!
+
+<a href="https://analyticsindiamag.com/ai-features/understanding-simpsons-paradox-and-its-impact-on-data-analytics/" target="_blank">Image credit</a>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
