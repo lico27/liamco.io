@@ -3,3 +3,9 @@
 .navbar, .quarto-title-banner {
     background-color: #303030 !important;  
 }
+
+.cert-list {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
