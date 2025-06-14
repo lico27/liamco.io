@@ -16,6 +16,7 @@ format:
       light: flatly
     css: styles.css
     toc: true
+    toc-depth: 5
 
 editor: visual
 
