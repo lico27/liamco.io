@@ -9,7 +9,13 @@ categories: [assignment, data analysis, python, linear regression]
 
 This is the second half of my final assessment for the MSc module *Programming for Data Science*. The brief was to investigate a dataset of indicators for 50 regions, identify a pattern or trend, produce at least three data visualisations, identify and deal with any outliers, and run a hypothesis test.
 
-My grade for this module is pending.
+My grades for this assignment are:
+
+-   Task 6 - 80%
+-   Task 7 - 85%
+-   Take 8 - 75%
+
+------------------------------------------------------------------------
 
 ### Task 6 - Explore the dataset to identify an "interesting" pattern or trend
 
@@ -103,7 +109,7 @@ rd.head()
 ```
 
 |   | region | med_income | unemp_seasonal | metro_pop | hs_degree | non_citizen | white_poverty | gini_index | non_white | votes_to_right | bias_crimes |
-|------|------|------|------|------|------|------|------|------|------|------|------|
+|----|----|----|----|----|----|----|----|----|----|----|----|
 | 0 | 1 | 42278 | 0.060 | 0.64 | 0.821 | 0.02 | 0.12 | 0.472 | 0.35 | 0.63 | 1.806410 |
 | 1 | 2 | 67629 | 0.064 | 0.63 | 0.914 | 0.04 | 0.06 | 0.422 | 0.42 | 0.53 | 1.656700 |
 | 2 | 3 | 49254 | 0.063 | 0.90 | 0.842 | 0.10 | 0.09 | 0.455 | 0.49 | 0.50 | 3.413928 |
@@ -187,6 +193,8 @@ for i,el in enumerate(coefficients):
 
 ![png](index_files/index_9_0.png)
 
+------------------------------------------------------------------------
+
 ### Task 7 - Detect and remove any outliers in the data used for your "interesting" pattern or trend
 
 The first approach that I took to detecting outliers was to render a boxplot for each indicator. This provided a visualisation of the spread of the data, and quickly highlighted that there appears to be one outlier.
@@ -243,6 +251,8 @@ plt.show()
 ```
 
 ![png](index_files/index_14_0.png)
+
+------------------------------------------------------------------------
 
 ### Task 8 - Define a hypothesis to test your “interesting” pattern or trend an test your hypothesis with statistical significance level of 0.05
 
@@ -373,6 +383,8 @@ plt.show()
 ```
 
 ![png](index_files/index_24_0.png)
+
+------------------------------------------------------------------------
 
 ### Bibliography
 
